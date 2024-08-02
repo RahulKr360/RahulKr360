@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr360&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr360" /> </p>
 
+- 🔭 I’m currently studying **MSc Computer Science(Data Analytics)**
+
 - 🌱 I’m currently learning **power BI**
 
 - 📫 How to reach me **rahulravindran231@gmail.com**
